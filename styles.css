@@ -19,9 +19,7 @@ body{
 	max-width:300px;
 	text-align:center;
 }
-/* .pricing-card:hover{
-	background-color:#f3f4f4;
-} */
+
 .image{
 	width:250px;
 }
@@ -58,6 +56,3 @@ body{
 	border:none;
 	
 }
-/* .buy-now:hover{
-	background-color: #ff5c5c;
-} */
